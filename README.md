@@ -1,5 +1,5 @@
 # 8bit_SRAM
-this is aa project about 8bit SRAM (a memory unit) which has 2 8bit cells to read and write from
+this is a project about 8bit SRAM (a memory unit) which has 2 8bit cells to read and write from
 
 # (THIS PROJECT WAS MADE FOR STARDANCE)
 just to simplify it, Stardance is a event where teenagers from all over the world can build, design their own websites, circuits, games and much more! But there much more, Stardance offers the possibility to earn
