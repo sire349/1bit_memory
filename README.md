@@ -17,6 +17,5 @@ an undeniable proof that I'm not doing something wrong or ignoring some aspects 
 Secondly since I need a software to draw my circuits on, I'll be using Logisim-Evolution (a software that is able to simulate logic gates and circuits), I'm pretty aware that logic gates are far more of a simplified 
 tools to use than transistors, but no worries, I'll translate them into transistor circuits on my own, even if it seems hard, I find this method faster than drawing transistor circuits from zero.
 I'm relying on Logisim, since it is a quite simple software to use and a reliable one.
-Finally to actually be able to build this challenging project, I'll be using KiCAD; designing my own PCB, I'm using KiCAD since it has a pretty simple UI and has a integrated tool for production files,
-such as the BOM and the Gerbers (necessary for buying/producing PCBs).
+
 
