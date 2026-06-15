@@ -1,15 +1,15 @@
-# 8bit_SRAM
-this is a project about 8bit SRAM (a memory unit) which has 2 8bit cells to read and write from
+# 1bit_memory
+this is a project about a single bit memory cell, which will be able to store a single bit information!
 
 # (THIS PROJECT WAS MADE FOR STARDANCE)
 just to simplify it, Stardance is a event where teenagers from all over the world can build, design their own websites, circuits, games and much more! But there much more, Stardance offers the possibility to earn
 credits and use them to "buy" various type of prices ranging from software/games to micro-controllers or devices!
 
 
-
-1) Store binary numbers.
-2) Write binary numbers which were previously stored.
-3) Choose which memory cell you want to store/write from.
+# Objectives
+- make an schematic of the circuit in logic gates
+- translate the logic gates in transistors
+- make it in CAD
 
 # Technical infos
 For this project I'm using breadboards as the main IRL experimentation to check if the circuit actually works in the real world and not just software since I'll be only using transistors (specifally 2N3904), this will serve as 
